@@ -5,7 +5,7 @@
 		"uniqueTo": "Russian Empire",
 		"cost": 100,
 		"maintenance": 2,
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in this city]", "[-25]% Culture cost of natural border growth [in this city]"],
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"],
 		"requiredTech": "Education"
 	},
 	{

@@ -1,25 +1,34 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Siberian Expansion",
+		"replaces": "University",
+		"uniqueTo": "Russian Empire",
+		"cost": 100,
+		"maintenance": 2,
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in this city]", "[-25]% Culture cost of natural border growth [in this city]"],
+		"requiredTech": "Education"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "Serfs Quarters",
+		"replaces": "Library",
+		"uniqueTo": "Russian Empire",
+		"cost": 50,
+		"science": 1,
+		"happiness": 1,
+		"production": 1,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [4] population [in this city]", "[10]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Vodka Distilery",
+		"uniqueTo": "Russian Empire",
+		"cost": 50,
+		"gold": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Wheat] tiles [in this city]", "[+1 Happiness from [Wheat] tiles [in this city]",
+			    "[+1 Culture] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Agriculture"
+	},
 ]

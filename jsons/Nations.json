@@ -23,7 +23,7 @@
 		"innerColor": [0,79,206],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Russian Giant",
-		"uniques": ["[-100]% unhappiness from the number of cities", "[+25]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+		"uniques": ["[-80]% unhappiness from the number of cities", "[+25]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
 			    "[-33]% Culture cost of natural border growth [in all cities]"],
 		
 		"cities": ["St. Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",

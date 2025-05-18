@@ -5,7 +5,8 @@
 		"uniqueTo": "Russian Empire",
 		"cost": 100,
 		"maintenance": 2,
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"],
+		"percentStatBonus": {"science": 10},
+		"uniques": ["[-25]% Gold cost of acquiring tiles [in this city]", "[-25]% Culture cost of natural border growth [in this city]"],
 		"requiredTech": "Education"
 	},
 	{
@@ -18,6 +19,16 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [5] population [in this city]", "[10]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Blockhouse",
+		"replaces": "Barracks",
+		"uniqueTo": "Russia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
 	},
 	{
 		"name": "Vodka Distilery",

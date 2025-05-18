@@ -13,7 +13,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Early Streltsy",
+		"name": "Early Strelet",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Russian Empire",
@@ -27,7 +27,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Streltsy",
+		"name": "Strelet",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Russian Empire"

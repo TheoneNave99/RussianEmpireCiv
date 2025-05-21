@@ -6,7 +6,7 @@
 		"uniqueTo": "Russian Empire",
 		"movement": 1,
 		"strength": 14,
-		"cost": 25,
+		"cost": 30,
 		"requiredTech": "Civil Service",
 		"uniques": ["Can move immediately once bought", "[+2] Movement <in [Friendly Land] tiles>"],
 		"obsoleteTech": "Rifling",

@@ -24,9 +24,11 @@
 		"name": "Blockhouse",
 		"replaces": "Barracks",
 		"uniqueTo": "Russia",
+		"cityStrength": 5,
+		"cityHealth": 10,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

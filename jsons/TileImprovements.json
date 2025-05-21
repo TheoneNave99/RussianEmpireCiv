@@ -1,0 +1,14 @@
+[	
+  {
+		"name": "Gulag",
+		"uniqueTo": "Russian Empire",
+		"terrainsCanBeBuiltOn": ["Tundra, Desert"],
+		"production": 3,
+    "happiness": 2,
+		"turnsToBuild": 5,
+		"uniques": ["Gain control over [all] tiles in a [1]-tile radius", "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Gulag] tiles>",
+          "Cannot be built on [Land] tiles <with [1] to [6] neighboring [City] tiles>", "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Farm] tiles>"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+]

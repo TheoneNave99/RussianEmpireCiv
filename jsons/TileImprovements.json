@@ -2,7 +2,7 @@
   {
 		"name": "Gulag",
 		"uniqueTo": "Russian Empire",
-		"terrainsCanBeBuiltOn": ["Tundra", "Desert, Snow"],
+		"terrainsCanBeBuiltOn": ["Tundra", "Desert", "Snow"],
 		"production": 3,
     "happiness": 2,
 		"turnsToBuild": 5,

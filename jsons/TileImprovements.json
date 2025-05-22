@@ -4,7 +4,7 @@
 		"uniqueTo": "Russian Empire",
 		"terrainsCanBeBuiltOn": ["Tundra", "Snow"],
 		"production": 2,
-    		"happiness": 2,
+    		"happiness": 1,
 		"turnsToBuild": 5,
 		"uniques": ["Must be next to [Snow]", "Tile provides yield without assigned population",
 			"[+1 Production] for each adjacent [Mine]", "[+1 Production] for each adjacent [Lumber mill]",
